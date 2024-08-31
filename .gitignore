@@ -1,0 +1,6 @@
+.venv/
+downloads/
+.env
+/src/__pycache__
+fav_videos.json
+.DS_Store
